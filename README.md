@@ -9,7 +9,7 @@ Skills: C,Python,Html5, Css3, JavaScript, Bootstrap, MySql, Linux, Git,Cyber Sec
 
 ## I'm a programmer,Developer and bug bounty hunter
 !
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m Willing to Learn New Technologies 👋
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ fact: i love researching and doing innovation creativity things
