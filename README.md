@@ -8,39 +8,39 @@ Hi there! I'm Posa Venkata Akhil, a dedicated DevOps Engineer with expertise in 
 
 ## Skills
 
-## Continuous Integration/Continuous Deployment (CI/CD)
+### Continuous Integration/Continuous Deployment (CI/CD) <i class="fab fa-jenkins"></i>
 
 - **Tools:** Jenkins
 
-## Configuration Management
+### Configuration Management <i class="fab fa-ansible"></i>
 
 - **Tools:** Ansible
 
-## Infrastructure as Code (IaC)
+### Infrastructure as Code (IaC) <i class="fab fa-aws"></i> <i class="fab fa-terraform"></i> <i class="fab fa-cloudformation"></i>
 
 - **Tools:** Terraform, CloudFormation
 
-## Containerization and Orchestration
+### Containerization and Orchestration <i class="fab fa-docker"></i> <i class="fab fa-kubernetes"></i>
 
 - **Tools:** Docker, Kubernetes
 
-## Monitoring and Logging
+### Monitoring and Logging <i class="fas fa-chart-line"></i> <i class="fas fa-chart-bar"></i>
 
 - **Tools:** Prometheus, Grafana
 
-## Version Control Systems
+### Version Control Systems <i class="fab fa-git"></i> <i class="fab fa-github"></i> <i class="fab fa-bitbucket"></i>
 
 - **Tools:** Git, GitHub, Bitbucket
 
-## Cloud Platforms (AWS, Azure)
+### Cloud Platforms (AWS, Azure) <i class="fab fa-aws"></i> <i class="fab fa-azure"></i>
 
 - **Tools:** AWS (Amazon Web Services), Azure (Microsoft Azure)
 
-## Scripting and Automation
+### Scripting and Automation <i class="fas fa-terminal"></i> <i class="fab fa-python"></i> <i class="fab fa-powershell"></i>
 
 - **Tools:** Bash, Python, PowerShell
 
-## Collaboration and Communication
+### Collaboration and Communication <i class="fab fa-slack"></i> <i class="fab fa-microsoft"></i> <i class="fab fa-jira"></i>
 
 - **Tools:** Slack, Microsoft Teams, Jira
 
