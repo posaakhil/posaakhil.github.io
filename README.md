@@ -54,10 +54,9 @@ Hi there! I'm Posa Venkata Akhil, a dedicated DevOps Engineer with expertise in 
 
 ## Connect with Me
 
-- [Portfolio](https://posaakhil.github.io)
-- [LinkedIn](https://www.linkedin.com/in/posavenkataakhil-akhil-a800bab7/)
-- [Medium Blog](https://medium.com/@posavenkataakhil123)
-- [GitHub](https://github.com/posaakhil)
-- [Twitter](https://twitter.com/posaakhil)
-
+- [Portfolio](https://posaakhil.github.io) <i class="fas fa-globe"></i>
+- [LinkedIn](https://www.linkedin.com/in/posavenkataakhil-akhil-a800bab7/) <i class="fab fa-linkedin"></i>
+- [Medium Blog](https://medium.com/@posavenkataakhil123) <i class="fab fa-medium"></i>
+- [GitHub](https://github.com/posaakhil) <i class="fab fa-github"></i>
+- [Twitter](https://twitter.com/posaakhil) <i class="fab fa-twitter"></i>
 Feel free to reach out to discuss collaboration opportunities or simply chat about DevOps, cybersecurity, and software development. Let's innovate and build together! 🚀
