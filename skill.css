@@ -1,0 +1,274 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    margin: 0;
+}
+
+.body_section {
+    padding: 3% 5% 1%;
+}
+
+a {
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: "Lovely Home";
+    src: local('Lovely Home'), url("Image/LovelyHome-9aBZ.ttf") format('truetype');
+}
+
+.brand-name, .navbar-light .navbar-brand {
+    font-family: "Lovely Home";
+    font-size: 50px;
+    font-weight: bold;
+    color: #351458;
+}
+
+@media only screen and (max-width: 764px) {
+    .brand-name, .navbar-light .navbar-brand {
+        font-size: 40px;
+    }
+}
+
+.headerachor {
+    color: black;
+    margin: 0 7px 0 7px;
+    font-size: 25px;
+}
+
+.headerachor:hover {
+    background-color: #f1f1f1;
+}
+
+.Section1 {
+    padding: 4% 0 3%;
+}
+
+.skill-img {
+    width: 100%;
+    height: 100%;
+}
+
+.Skill-heading {
+    font-family: "Montserrat";
+    font-size: 40px;
+    font-weight: 300;
+}
+
+#SkillBox {
+    width: 95%;
+    height: auto;
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+#SkillBox img {
+    width: 20%;
+    height: 10%;
+    margin: auto 35%;
+    padding: 10px;
+}
+
+.SkillBar {
+    width: 90%;
+    height: 50px;
+    position: relative;
+    border-radius: 20px;
+    background: #c5c2ff;
+    margin: 20px auto;
+}
+
+#Skill-Docker {
+    width: 90%;
+    border-radius: 20px;
+    animation: Animate-Docker 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+@keyframes Animate-Docker {
+    from {
+        width: 10px;
+    }
+    to {
+        width: 90%;
+    }
+}
+
+#Skill-Kubernetes {
+    width: 85%;
+    border-radius: 20px;
+    animation: Animate-Kubernetes 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+@keyframes Animate-Kubernetes {
+    from {
+        width: 10px;
+    }
+    to {
+        width: 85%;
+    }
+}
+
+#Skill-Jenkins {
+    width: 80%;
+    border-radius: 20px;
+    animation: Animate-Jenkins 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+@keyframes Animate-Jenkins {
+    from {
+        width: 10px;
+    }
+    to {
+        width: 80%;
+    }
+}
+
+#Skill-Terraform {
+    width: 75%;
+    border-radius: 20px;
+    animation: Animate-Terraform 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+@keyframes Animate-Terraform {
+    from {
+        width: 10px;
+    }
+    to {
+        width: 75%;
+    }
+}
+
+#Skill-AWS {
+    width: 90%;
+    border-radius: 20px;
+    animation: Animate-AWS 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+@keyframes Animate-AWS {
+    from {
+        width: 10px;
+    }
+    to {
+        width: 90%;
+    }
+}
+
+#Skill-Ansible {
+    width: 80%;
+    border-radius: 20px;
+    animation: Animate-Azure 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+#Skill-Git {
+    width: 80%;
+    border-radius: 20px;
+    animation: Animate-Jenkins 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+#Skill-Prometheus  {
+    width: 70%;
+    border-radius: 20px;
+    animation: Animate-Terraform 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+#Skill-NodeJS {
+    width: 80%;
+    border-radius: 20px;
+    animation: Animate-Azure 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+#Skill-Maven {
+    width: 80%;
+    border-radius: 20px;
+    animation: Animate-Azure 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+#Skill-Python  {
+    width: 80%;
+    border-radius: 20px;
+    animation: Animate-Azure 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+
+#Skill-Azure {
+    width: 80%;
+    border-radius: 20px;
+    animation: Animate-Azure 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+@keyframes Animate-Azure {
+    from {
+        width: 10px;
+    }
+    to {
+        width: 80%;
+    }
+}
+
+#Skill-Grafana  {
+    width: 90%;
+    border-radius: 20px;
+    animation: Animate-AWS 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+
+.Skill-Area {
+    z-index: 1;
+    float: left;
+    margin-top: 8px;
+    margin-left: 15px;
+    text-shadow: none;
+    color: #fff;
+}
+
+@media only screen and (max-width: 950px) {
+    body, html {
+        text-align: center;
+        font-size: 16px;
+        line-height: normal;
+    }
+}
+
+footer {
+    padding-top: 2%;
+    color: #868e96;
+    text-align: center;
+}
