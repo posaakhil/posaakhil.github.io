@@ -5,44 +5,44 @@
 
 Hi there! I'm Posa Venkata Akhil, a dedicated DevOps Engineer with expertise in building and optimizing CI/CD pipelines and infrastructure for high-performance applications. I excel in implementing automation strategies that streamline software delivery and deployment processes.
 
-
 ## Skills
 
-### Continuous Integration/Continuous Deployment (CI/CD) <i class="fab fa-jenkins"></i>
+### Continuous Integration/Continuous Deployment (CI/CD) 🛠️
 
 - **Tools:** Jenkins
 
-### Configuration Management <i class="fab fa-ansible"></i>
+### Configuration Management ⚙️
 
 - **Tools:** Ansible
 
-### Infrastructure as Code (IaC) <i class="fab fa-aws"></i> <i class="fab fa-terraform"></i> <i class="fab fa-cloudformation"></i>
+### Infrastructure as Code (IaC) 🌐
 
 - **Tools:** Terraform, CloudFormation
 
-### Containerization and Orchestration <i class="fab fa-docker"></i> <i class="fab fa-kubernetes"></i>
+### Containerization and Orchestration 🐳
 
 - **Tools:** Docker, Kubernetes
 
-### Monitoring and Logging <i class="fas fa-chart-line"></i> <i class="fas fa-chart-bar"></i>
+### Monitoring and Logging 📊
 
 - **Tools:** Prometheus, Grafana
 
-### Version Control Systems <i class="fab fa-git"></i> <i class="fab fa-github"></i> <i class="fab fa-bitbucket"></i>
+### Version Control Systems 📝
 
 - **Tools:** Git, GitHub, Bitbucket
 
-### Cloud Platforms (AWS, Azure) <i class="fab fa-aws"></i> <i class="fab fa-azure"></i>
+### Cloud Platforms (AWS, Azure) ☁️
 
 - **Tools:** AWS (Amazon Web Services), Azure (Microsoft Azure)
 
-### Scripting and Automation <i class="fas fa-terminal"></i> <i class="fab fa-python"></i> <i class="fab fa-powershell"></i>
+### Scripting and Automation 🤖
 
 - **Tools:** Bash, Python, PowerShell
 
-### Collaboration and Communication <i class="fab fa-slack"></i> <i class="fab fa-microsoft"></i> <i class="fab fa-jira"></i>
+### Collaboration and Communication 🚀
 
 - **Tools:** Slack, Microsoft Teams, Jira
+
 
 
 
