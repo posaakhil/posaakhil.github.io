@@ -6,47 +6,47 @@ Hi there! I'm Posa Venkata Akhil, a passionate DevOps Engineer with a strong bac
 
 ## Skills
 
-- **Programming Languages:** C, Python, JavaScript
-- **Web Development:** HTML5, CSS3, Bootstrap
-- **Database:** MySQL, MongoDB
-- **DevOps Tools:** Git, Docker, Kubernetes, Terraform
-- **Operating Systems:** Linux (Ubuntu, CentOS)
-- **Cybersecurity:** Vulnerability testing, Bug Bounty Hunting
+## Continuous Integration/Continuous Deployment (CI/CD)
 
-## Experience
+- **Tools:** Jenkins
 
-### [Company Name / Freelance] - DevOps Engineer
-#### Month Year - Present
+## Configuration Management
 
-- Implemented CI/CD pipelines using Jenkins and GitLab CI/CD, reducing deployment times by 30%.
-- Managed Kubernetes clusters for container orchestration and scaling applications.
+- **Tools:** Ansible
 
-### [Company Name] - Software Developer
-#### Month Year - Month Year
+## Infrastructure as Code (IaC)
 
-- Developed scalable backend solutions using Python and Flask framework.
-- Secured web applications through penetration testing and code review.
+- **Tools:** Terraform, CloudFormation
 
-## Projects
+## Containerization and Orchestration
 
-### Project Name 1
-- **Description:** Developed a scalable microservices architecture using Docker and Kubernetes.
-- **Technologies Used:** Docker, Kubernetes, Python, Flask, MongoDB
+- **Tools:** Docker, Kubernetes
 
-### Project Name 2
-- **Description:** Implemented infrastructure as code using Terraform for AWS cloud resources.
-- **Technologies Used:** Terraform, AWS (EC2, S3, RDS)
+## Monitoring and Logging
 
-## Education
+- **Tools:** Prometheus, Grafana
 
-### [University Name] - Master's in DevOps
-#### Year of Graduation
+## Version Control Systems
 
-- Thesis: "Automation in CI/CD Pipelines for Agile Software Development"
+- **Tools:** Git, GitHub, Bitbucket
+
+## Cloud Platforms (AWS, Azure)
+
+- **Tools:** AWS (Amazon Web Services), Azure (Microsoft Azure)
+
+## Scripting and Automation
+
+- **Tools:** Bash, Python, PowerShell
+
+## Collaboration and Communication
+
+- **Tools:** Slack, Microsoft Teams, Jira
+
+
 
 ## Certifications
 
-- Certified Kubernetes Administrator (CKA)
+- AWS Cloud Practioner
 - AWS Certified Solutions Architect - Associate
 - Certified Ethical Hacker (CEH)
 
