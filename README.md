@@ -1,6 +1,6 @@
 # Posa Venkata Akhil - DevOps Engineer 👨‍💻
 
-![Profile Banner](https://your-image-url.com/banner.png)
+![Profile Banner](https://github.com/posaakhil/posaakhil.github.io/blob/main/Image/kin.jpg)
 
 
 Hi there! I'm Posa Venkata Akhil, a dedicated DevOps Engineer with expertise in building and optimizing CI/CD pipelines and infrastructure for high-performance applications. I excel in implementing automation strategies that streamline software delivery and deployment processes.
